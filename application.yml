@@ -35,6 +35,9 @@ workshop:
       title: "API First"
       url: "http://www.api-first.com/"
     -
+      title: "Countainers and Pivotal Cloud Foundry"
+      url: "https://d1fto35gcfffzn.cloudfront.net/platform/white-paper/Containers-and-Pivotal-Cloud-Foundry.pdf"
+    -
       title: "Pivotal Web Services"
       url: "https://run.pivotal.io/"
     -
