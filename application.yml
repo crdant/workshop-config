@@ -26,11 +26,14 @@ workshop:
       email: "rjagannathan@pivotal.io"
   resources:
     -
-      title: The Application Continuum
+      title: "The Application Continuum"
       url: "http://www.appcontinuum.io/"
     -
-      title: Twelve Factor Applications
+      title: "Twelve Factor Applications"
       url: "https://12factor.net"
+    -
+      title: "API First"
+      url: "http://www.api-first.com/"
     -
       title: "Pivotal Web Services"
       url: "https://run.pivotal.io/"
