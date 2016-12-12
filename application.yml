@@ -35,6 +35,9 @@ workshop:
       title: "Pivotal Web Services"
       url: "https://run.pivotal.io/"
     -
+      title: "Spring Initializr"
+      url: "http://start.spring.io/"
+    -
       title: "Pivotal Network"
       url: "https://network.pivotal.io/"
     -
@@ -49,9 +52,6 @@ workshop:
     -
       title: "Spring Documentation"
       url: "https://spring.io/docs"
-    -
-      title: "Spring Initializr"
-      url: "http://start.spring.io/"
   requirements:
     -
       title: "Test"
