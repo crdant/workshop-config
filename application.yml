@@ -68,11 +68,20 @@ workshop:
         id: "a-new-way-of-working"
         title: "A New Way of Working"
       -
-        id: "why-cloud-native-slides"
+        id: "design-for-failure"
+        title: "Design for Failure"
       -
-        id: "68-cloud-native-design"
+        id: "api-first"
+        title: "API First"
+      -
+        id: "twelve-factor-apps-and-beyond"
+        title: "12 Factor Applications (and Beyond)"
       -
         id: "70-microservices"
+        title: "Microservices"
+      -
+        id: "data-microservices"
+        title: "Data Microservices"
       -
         id: "session1"
         title: "Application Development"
@@ -108,8 +117,5 @@ workshop:
         id: "service-discovery"
       -
         id: "circuit-breakers"
-      -
-        id: "datamicroservices"
-        title: "Data Microservices"
       -
         id: "springcloud-dataflow"
