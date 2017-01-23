@@ -62,40 +62,38 @@ workshop:
       description: "Content for December 14, 2016"
       topics:
       -
-        id: "session3"
-        title: "Cloud Native Applications"
+        id: "platform"
+        title: "Cloud Native Platform"
       -
         id: "a-new-way-of-working"
         title: "A New Way of Working"
       -
-        id: "design-for-failure"
-        title: "Design for Failure"
+        id: "cloudforge-overview"
+        title: "The CloudForge Experience"
       -
-        id: "api-first"
-        title: "API First"
+        id: "introduce"
+        title: "Introducing the sample application"
+      -
+        id: "deploying-to-cloudforge"
+        title: "Deploying with CloudForge"
+      -
+        id: "applications"
+        title: "Cloud Native Applications"
       -
         id: "twelve-factor-apps-and-beyond"
         title: "12 Factor Applications (and Beyond)"
       -
+        id: "api-first"
+        title: "API First"
+      -
+        id: "design-for-failure"
+        title: "Design for Failure"   # spring cloud services exercises
+      -
         id: "70-microservices"
         title: "Microservices"
       -
-        id: "data-microservices"
-        title: "Data Microservices"
-      -
         id: "session1"
-        title: "Application Development"
-      -
-        id: "08-deploy-simple-app"
-      -
-        id: "10-application-manifest"
-      -
-        id: "12-domains-and-routes"
-      -
-        id: "14-services"
-      -
-        id: "springboot"
-        title: "Spring Boot"
+        title: "Developing Applications"
       -
         id: "spring-boot-labs-setup"
       -
@@ -105,17 +103,15 @@ workshop:
       -
         id: "actuator"
       -
+        id: "14-services"
+      -
         id: "spring-data-rest"
       -
-        id: "scs"
-        title: "Spring Cloud Services"
+        id: "advanced"
+        title: "Advanced Topics"
       -
-        id: "scs-labs-setup"
+        id: "08-deploy-simple-app"
       -
-        id: "config"
+        id: "10-application-manifest"
       -
-        id: "service-discovery"
-      -
-        id: "circuit-breakers"
-      -
-        id: "springcloud-dataflow"
+        id: "12-domains-and-routes"
