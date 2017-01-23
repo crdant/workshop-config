@@ -71,11 +71,12 @@ workshop:
         id: "cloudforge-overview"
         title: "The CloudForge Experience"
       -
-        id: "introduce"
+        id: "sample-application"
         title: "Introducing the sample application"
       -
         id: "deploying-to-cloudforge"
         title: "Deploying with CloudForge"
+      # drop the mike
       -
         id: "applications"
         title: "Cloud Native Applications"
