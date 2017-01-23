@@ -87,7 +87,7 @@ workshop:
         title: "API First"
       -
         id: "design-for-failure"
-        title: "Design for Failure"   # spring cloud services exercises
+        title: "Design for Failure"  
       -
         id: "70-microservices"
         title: "Microservices"
