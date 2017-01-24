@@ -81,7 +81,6 @@ workshop:
         title: "The CloudForge Experience"
       -
         id: "sample-application"
-        title: "Introducing the sample application"
       -
         id: "deploying-to-cloudforge"
         title: "Deploying with CloudForge"
