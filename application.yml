@@ -5,7 +5,7 @@ workshop:
   contentURL: "https://workshop-content-crdant.cfapps.io"
   title: "Pivotal Cloud Foundry Workshop"
   date: "Recurrding Monthly"
-  description: ""<p>This workshop is targeted primarily at application developers and their managers who feel that
+  description: "<p>This workshop is targeted primarily at application developers and their managers who feel that
      something just isn’t working with the way they are working. Developing Cloud-Native applications and Deploying
      them to CloudForge will help you and your team to deliver better software, faster, and with less hassle.</p>
      <p>We’ll steadily build the level of detail that we cover, providing opportunities for managers to learn about the
