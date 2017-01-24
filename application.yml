@@ -1,16 +1,16 @@
 config:
-  name: liberty-mutual-ci
-foo: bar
-fortune:
-  messages:
-    - "You learn from your mistakes... You will learn a lot today."
-hello: world
+  name: liberty-mutual-2017
 
 workshop:
   contentURL: "https://workshop-content-crdant.cfapps.io"
   title: "Pivotal Cloud Foundry Workshop"
-  date: "February XX, 2016"
-  description: "This workshop will cover the ..."
+  date: "Recurrding Monthly"
+  description: ""<p>This workshop is targeted primarily at application developers and their managers who feel that
+     something just isn’t working with the way they are working. Developing Cloud-Native applications and Deploying
+     them to CloudForge will help you and your team to deliver better software, faster, and with less hassle.</p>
+     <p>We’ll steadily build the level of detail that we cover, providing opportunities for managers to learn about the
+     broader themes while leaving the code-level topics for their teams. When we get into the details, we’ll be focusing on
+     Java but touching on .NET and other languages as well.</p>"
   customerLogo: "https://www.libertymutual.com/insurance-content/logos/liberty-mutual-insurance-facebook.gif"
   instructors:
     -
@@ -20,14 +20,23 @@ workshop:
       phone: "(617) 388-1120"
   resources:
     -
+      title: "CloudForge Home"
+      url: "https://forge.lmig.com/"
+    -
+      title: "CloudForge Portal"
+      url: "https://cloudforge-portal.pdc.paas.lmig.com/#/pipeline"
+    -
+      title: "Liberty Commerical Insurance Cookbook"
+      url: "https://pcf-cookbook.sandbox.paas.lmig.com/"
+    -
+      title: "Code Like a Rock Star!"
+      url: "https://myvideo.lmig.com/viewerportal/video/video.vp?programId=esc_program%3A14946&contentAssocId=association%3A62435"
+    -
       title: "Pivotal Network"
       url: "https://network.pivotal.io/"
     -
       title: "Pivotal Documentation"
       url: "http://docs.pivotal.io/"
-    -
-      title: "cf CLI Documentation"
-      url: "https://docs.pivotal.io/pivotalcf/cf-cli/getting-started.html"
     -
       title: "Manifest Documentation"
       url: "https://docs.pivotal.io/pivotalcf/devguide/deploy-apps/manifest.html"
@@ -87,7 +96,7 @@ workshop:
         title: "API First"
       -
         id: "design-for-failure"
-        title: "Design for Failure"  
+        title: "Design for Failure"
       -
         id: "70-microservices"
         title: "Microservices"
