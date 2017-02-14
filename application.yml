@@ -68,13 +68,13 @@ workshop:
         id: "a-new-way-of-working"
         title: "Distributed Design"
       -
-        id: "coming-soon"
+        id: "cloud-native-architecture"
         title: "Reactive Processing"
       -
-        id: "Microservices Architecture"
-        title: "cloud-native-architecture"
+        id: "data-microservices"
+        title: "Microservices Architecture"
       -
-        id: "availability"
+        id: "availabilit"
         title: "High Availability and Resiliency"
       -
         id: "40-high-availability"
