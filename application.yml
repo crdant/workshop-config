@@ -83,7 +83,7 @@ workshop:
         id: "monitoring-logging"
         title: "Monitoring and Logging"
       -
-        id: "coming-soon"
+        id: "distributed-scale"
         title: "Distributed Scale"
       -
         id: "security"
