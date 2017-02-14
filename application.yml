@@ -1,27 +1,23 @@
---- 
-config: 
+---
+config:
   name: cjdname
 foo: bar
-fortune: 
-  messages: 
+fortune:
+  messages:
     - "People are naturally attracted to you."
     - "You learn from your mistakes... You will learn a lot today."
 hello: world
 
-workshop: 
+workshop:
   contentURL: "https://workshop-content.cfapps.io"
   title: "Pivotal Cloud Foundry Workshop"
   date: "September 8-9, 2016"
-  instructors: 
-    - 
-      name: "Chris Decelles"
-      title: "Sr. Platform Architect"
-      email: cdecelles@pivotal.io
-      phone: "603.512.5616"
-    - 
-      name: "Ravi J."
-      title: "Platform Architect"
-      email: rjagannathan@pivotal.io
+  instructors:
+    -
+      name: "Chuck D'Antonio"
+      title: "Advisory Platform Architect"
+      email: cdantonio@pivotal.io
+      phone: "+1 617.388.1120"
   resources:
     -
       title: "Pivotal Network"
@@ -60,100 +56,53 @@ workshop:
       -
         content: "content 4 link"
   sessions:
-    - 
-      id: "day1"
-      name: "Day 1"
-      description: "Content for September, 8"
+    -
+      id: "sessions"
+      name: "Workshop Sessions"
+      description: "Content for February 14, 2017"
       topics:
       -
-        id: "session1"
-        title: "Cloud Native Enterprise"
+        id: "features"
+        title: "Features of a Modern Messaging Platform"
       -
-        id: "pcf101-session1-cne"
+        id: "a-new-way-of-working"
+        title: "Distributed Design"
       -
-        id: "session1lab"
-        title: "Demo: 9:45 AM - 10:15 AM"
+        id: "coming-soon"
+        title: "Reactive Processing"
       -
-        id: "emptysession"
-        title: "Pushing your first app, Apps Manager"
+        id: "Microservices Architecture"
+        title: "cloud-native-architecture"
       -
-        id: "day1ambreak"
-        title: "Break 10:15 AM - 10:30 AM"
+        id: "availability"
+        title: "High Availability and Resiliency"
       -
-        id: "session2"
-        title: "PCF Architecture and Operations"
+        id: "40-high-availability"
+        title: "Restore, Restart, Recreate"
       -
-        id: "pcf101-session2-arch"
+        id: "monitoring-and-logging"
+        title: "Monitoring and Logging"
       -
-        id: "pcf101-session2a-oper"
-      -
-        id: "day1Lunch"
-        title: "Lunch 12:00 PM - 1:00 PM"
-      -
-        id: "pcf101-session3-services"
-        title: "Pivotal Cloud Foundry Services"
-      -
-        id: "micro"
-        title: "Continous Delivery and Cloud Native Apps"
-      -
-        id: "66-continuous-delivery"
-      -
-        id: "68-cloud-native-design"
-      -
-        id: "70-microservices"
+        id: "coming-soon"
+        title: "Distributed Scale"
       -
         id: "security"
-        title: "Security"
+        title: "Security and Administration"
       -
-        id: "59-oauth-primer"
+        id: "security-topics"
+        title: "The Three Rs and Other Security Features"
       -
-        id: "60-security-and-sso"
+        id: "patching-upgrading"
+        title: "Patching and Upgrading"
       -
-        id: "day1pmbreak"
-        title: "Break 3:30 PM - 3:45 PM"
+        id: "66-continuous-delivery"
+        title: "Continuous Delivery"
       -
-        id: "day1open"
-        title: "Open Discussions:"
+        id: "extending"
+        title: "Extending the Platform"
       -
-        id: "56-cloud-controller-API"
+        id: "design-for-failure"
+        title: "Cloud Services"
       -
-        id: "58-service-broker"
-      -
-        id: "62-buildpacks"
-      -
-        id: "emptysession"
-        title: "COTS / ERP / Packaged Software"
-    - 
-      id: "day2"
-      name: "Day 2"
-      description: "Content for September, 9"
-      topics:
-      -
-        id: "session1"
-        title: "Application Development"
-      -
-        id: "04-cli"
-      -
-        id: "08-deploy-simple-app"
-      -
-        id: "06-org-space-user-role"
-      -
-        id: "10-application-manifest"
-      -
-        id: "12-domains-and-routes"
-      -
-        id: "springboot"
-        title: "Spring Boot"
-      -
-        id: "80-cs-spring-boot-basics"
-      -
-        id: "82-cs-spring-boot-adv"
-      -
-        id: "scs"
-        title: "Spring Cloud"
-      -
-        id: "config"
-      -
-        id: "service-discovery"
-      -
-        id: "circuit-breakers"
+        id: "intro-streams"
+        title: "Sources, Sinks, and Streams"
