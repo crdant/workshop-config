@@ -9,7 +9,7 @@ fortune:
 hello: world
 
 workshop:
-  contentURL: "https://workshop-content.cfapps.io"
+  contentURL: "https://workshop-content-crdant.cfapps.io"
   title: "Pivotal Cloud Foundry Workshop"
   date: "February 14, 2017"
   instructors:
