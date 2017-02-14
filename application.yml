@@ -80,7 +80,7 @@ workshop:
         id: "40-high-availability"
         title: "Restore, Restart, Recreate"
       -
-        id: "monitoring-and-logging"
+        id: "monitoring-logging"
         title: "Monitoring and Logging"
       -
         id: "coming-soon"
