@@ -11,7 +11,7 @@ hello: world
 workshop:
   contentURL: "https://workshop-content.cfapps.io"
   title: "Pivotal Cloud Foundry Workshop"
-  date: "September 8-9, 2016"
+  date: "February 14, 2017"
   instructors:
     -
       name: "Chuck D'Antonio"
