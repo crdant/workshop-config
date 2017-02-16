@@ -1,27 +1,23 @@
---- 
-config: 
+---
+config:
   name: cjdname
 foo: bar
-fortune: 
-  messages: 
+fortune:
+  messages:
     - "People are naturally attracted to you."
     - "You learn from your mistakes... You will learn a lot today."
 hello: world
 
-workshop: 
-  contentURL: "https://workshop-content.cfapps.io"
-  title: "Pivotal Cloud Foundry Workshop"
-  date: "September 8-9, 2016"
-  instructors: 
-    - 
-      name: "Chris Decelles"
-      title: "Sr. Platform Architect"
-      email: cdecelles@pivotal.io
-      phone: "603.512.5616"
-    - 
-      name: "Ravi J."
-      title: "Platform Architect"
-      email: rjagannathan@pivotal.io
+workshop:
+  contentURL: "https://workshop-content-crdant.cfapps.io"
+  title: "Spring Cloud Workshop"
+  date: "TBD, 2017"
+  instructors:
+    -
+      name: "Chuck D'Antonio"
+      title: "Advisory Platform Architect"
+      email: cdantonio@pivotal.io
+      phone: "+1 617.388.1120"
   resources:
     -
       title: "Pivotal Network"
@@ -60,7 +56,7 @@ workshop:
       -
         content: "content 4 link"
   sessions:
-    - 
+    -
       id: "day1"
       name: "Day 1"
       description: "Content for September, 8"
@@ -123,7 +119,7 @@ workshop:
       -
         id: "emptysession"
         title: "COTS / ERP / Packaged Software"
-    - 
+    -
       id: "day2"
       name: "Day 2"
       description: "Content for September, 9"
