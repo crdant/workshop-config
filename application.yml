@@ -77,10 +77,10 @@ workshop:
       -
         id: "circuit-breaker-metric-aggregation"
     -
-    id: "day2"
-    name: "Day One - Spring Cloud Dataflow"
-    description: "Workshop content for <DATE>"
-    topics:
+      id: "day2"
+      name: "Day One - Spring Cloud Dataflow"
+      description: "Workshop content for <DATE>"
+      topics:
       -
         id: "datamicroservices"
         title: "Data Microservices"
