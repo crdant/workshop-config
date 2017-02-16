@@ -62,8 +62,23 @@ workshop:
       description: "Workshop content for <DATE>"
       topics:
       -
+        id: "springboot"
+        title: "Spring Boot"
+      -
+        id: "spring-boot-labs-setup"
+      -
+        id: "80-cs-spring-boot-basics"
+      -
+        id: "82-cs-spring-boot-adv"
+      -
+        id: "actuator"
+      -
+        id: "spring-data-rest"
+      -
         id: "scs"
         title: "Spring Cloud"
+      -
+        id: "design-for-failure"
       -
         id: "scs-labs-setup"
       -
