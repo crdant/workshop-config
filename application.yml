@@ -11,7 +11,7 @@ hello: world
 workshop:
   contentURL: "https://workshop-content-crdant.cfapps.io"
   title: "Spring Cloud Workshop"
-  date: "TBD, 2017"
+  date: "February 28-March 1, 2017"
   instructors:
     -
       name: "Chuck D'Antonio"
