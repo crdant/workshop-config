@@ -18,6 +18,7 @@ workshop:
       title: "Advisory Platform Architect"
       email: cdantonio@pivotal.io
       phone: "+1 617.388.1120"
+
   resources:
     -
       title: "Pivotal Network"
@@ -37,6 +38,9 @@ workshop:
     -
       title: "Spring Initializr"
       url: "http://start.spring.io/"
+    -
+      title: "Spring Cloud Stream Initializr"
+      url: "http://start-scs.cfapps.io/"
     -
       title: "Pivotal Web Services"
       url: "https://run.pivotal.io/"
