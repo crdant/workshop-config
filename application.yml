@@ -116,7 +116,7 @@ workshop:
         id: "advanced"
         title: "Advanced Topics"
       -
-        id: "08-deploy-simple-app"
+        id: "cloudforge-bluegreen"
       -
         id: "10-application-manifest"
       -
