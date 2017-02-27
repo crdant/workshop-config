@@ -68,7 +68,7 @@ workshop:
     -
       id: "day1"
       name: "Workshop Sessions"
-      description: "Content for December 14, 2016"
+      description: "Learning about Cloud Foundry, CloudForge, and Spring Boot"
       topics:
       -
         id: "platform"
