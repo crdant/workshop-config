@@ -66,7 +66,7 @@ workshop:
     -
       id: "day1"
       name: "Day One - Spring Cloud"
-      description: "Workshop content for <DATE>"
+      description: "Workshop content for Februrary 28"
       topics:
       -
         id: "springboot"
@@ -101,7 +101,7 @@ workshop:
     -
       id: "day2"
       name: "Day Two - Spring Cloud Dataflow"
-      description: "Workshop content for <DATE>"
+      description: "Workshop content for March 1"
       topics:
       -
         id: "datamicroservices"
