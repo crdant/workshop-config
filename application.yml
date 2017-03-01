@@ -86,11 +86,11 @@ workshop:
       -
         id: "service-discovery"
       -
-        id: "client-slide-load-balancing"
-      -
         id: "circuit-breakers"
       -
         id: "circuit-breaker-metric-aggregation"
+      -
+        id: "client-slide-load-balancing"
     -
       id: "day2"
       name: "Day Two - Spring Cloud Dataflow"
@@ -110,9 +110,3 @@ workshop:
       -
         id: "09-spring-cloud-tasks"
         title: "Tasks"
-      -
-        id: "11-high-availability"
-        title: "High Availability"
-      -
-        id: "12-management-monitoring"
-        title: "Management and Monitoring"
