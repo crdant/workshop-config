@@ -11,13 +11,17 @@ hello: world
 workshop:
   contentURL: "https://workshop-content-crdant.cfapps.io"
   title: "Spring Cloud Workshop"
-  date: "TBD, 2017"
+  date: "February 28-March 1, 2017"
   instructors:
     -
       name: "Chuck D'Antonio"
       title: "Advisory Platform Architect"
       email: cdantonio@pivotal.io
       phone: "+1 617.388.1120"
+    -
+      name: "Ravi Jagannathan"
+      title: "Platform Architect"
+      email: "rjagannathan@pivotal.io"
   resources:
     -
       title: "Pivotal Network"
@@ -37,6 +41,9 @@ workshop:
     -
       title: "Spring Initializr"
       url: "http://start.spring.io/"
+    -
+      title: "Spring Cloud Stream Initializr"
+      url: "http://start-scs.cfapps.io/"
     -
       title: "Pivotal Web Services"
       url: "https://run.pivotal.io/"
@@ -59,7 +66,7 @@ workshop:
     -
       id: "day1"
       name: "Day One - Spring Cloud"
-      description: "Workshop content for <DATE>"
+      description: "Workshop content for Februrary 28"
       topics:
       -
         id: "springboot"
@@ -94,7 +101,7 @@ workshop:
     -
       id: "day2"
       name: "Day Two - Spring Cloud Dataflow"
-      description: "Workshop content for <DATE>"
+      description: "Workshop content for March 1"
       topics:
       -
         id: "datamicroservices"
