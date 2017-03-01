@@ -108,6 +108,7 @@ workshop:
         title: "Data Microservices"
       -
         id: "02-architecture"
+        title: "Architecture"
       -
         id: "04-introduction-streams"
         title: "Streams"
