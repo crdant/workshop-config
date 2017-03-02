@@ -81,6 +81,7 @@ workshop:
         title: "The CloudForge Experience"
       -
         id: "sample-application"
+        title: "A Sample Application"
       -
         id: "deploying-to-cloudforge"
         title: "Deploying with CloudForge"
@@ -122,18 +123,25 @@ workshop:
         title: "Developing Applications"
       -
         id: "spring-boot-labs-setup"
+        title: "Lab Setup"
       -
         id: "80-cs-spring-boot-basics"
+        title: "Spring Boot"
       -
         id: "82-cs-spring-boot-adv"
+        title: "More Spring Boot Features
       -
         id: "actuator"
+        title: "Spring Boot Actuator"
       -
         id: "spring-data-rest"
+        title: "Spring Data REST"
       -
         id: "advanced"
         title: "Advanced Topics"
       -
         id: "cloudforge-bluegreen"
+        title: "Blue-Green Deployment with CloudForge"
       -
         id: "12-domains-and-routes"
+        title: "Domains and Routes"
