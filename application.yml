@@ -85,6 +85,24 @@ workshop:
         id: "deploying-to-cloudforge"
         title: "Deploying with CloudForge"
       -
+        id: "pivotal-cloud-foundry-intro"
+        title: "Pivotal Cloud Foundry"
+      -
+        id: "02-intro-to-pcf"
+        title: "Overview"
+      -
+        id: "04-cli"
+        title: "The cf Command Line"
+      -
+        id: "06-org-space-user-role"
+        title: "Orgs, Spaces, Users, and Roles"
+      -
+        id: "10-application-manifest"
+        title: "Application Manifests"
+      -
+        id: "14-services"
+        title: "Services"
+      -
         id: "applications"
         title: "Cloud Native Applications"
       -
@@ -117,9 +135,5 @@ workshop:
         title: "Advanced Topics"
       -
         id: "cloudforge-bluegreen"
-      -
-        id: "10-application-manifest"
-      -
-        id: "14-services"
       -
         id: "12-domains-and-routes"
