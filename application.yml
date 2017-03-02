@@ -129,7 +129,7 @@ workshop:
         title: "Spring Boot"
       -
         id: "82-cs-spring-boot-adv"
-        title: "More Spring Boot Features
+        title: "More Spring Boot Features"
       -
         id: "actuator"
         title: "Spring Boot Actuator"
