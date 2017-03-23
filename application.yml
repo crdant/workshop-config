@@ -90,16 +90,13 @@ workshop:
         title: "Cloud Native Applications"
       -
         id: "twelve-factor-apps-and-beyond"
-        title: "12 Factor Applications (and Beyond)"
-      -
-        id: "api-first"
-        title: "API First"
-      -
-        id: "design-for-failure"
-        title: "Design for Failure"
+        title: "Cloud Native Architecture"
       -
         id: "70-microservices"
         title: "Microservices"
+      -
+        id: "design-for-failure"
+        title: "Failures in the Cloud"
       -
         id: "session1"
         title: "Developing Applications"
