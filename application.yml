@@ -86,14 +86,14 @@ workshop:
         id: "deploying-to-cloudforge"
         title: "Deploying with CloudForge"
       -
-        id: "applications"
+        id: "coming-soon"
         title: "Cloud-Native Applications"
       -
         id: "70-microservices"
-        title: "Cloud-Native Architecture"
+        title: "What is a Cloud-Native Application?"
       -
-        id: "design-for-failure"
-        title: "Designing Cloud-Native Applications"
+        id: "coming-soon"
+        title: "How Do I Become Cloud-Native?"
       -
         id: "session1"
         title: "Developing Applications"
@@ -123,6 +123,21 @@ workshop:
       name: "Additional Material"
       description: "Additional supporting material for the workshop"
       topics:
+      -
+        id: "architecture-and-design"
+        title: "Cloud-Native Techniques"
+      -
+        id: "twelve-factor-apps-and-beyond"
+        title: "12 Factor Applications (and Beyond)"
+      -
+        id: "api-first"
+        title: "API First"
+      -
+        id: "design-for-failure"
+        title: "Design for Failure"
+      -
+        id: "70-microservices"
+        title: "Microservices"
       -
         id: "pivotal-cloud-foundry-intro"
         title: "Pivotal Cloud Foundry"
