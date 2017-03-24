@@ -89,11 +89,11 @@ workshop:
         id: "coming-soon"
         title: "Cloud-Native Applications"
       -
-        id: "70-microservices"
+        id: "what-is-cloud-native"
         title: "What is a Cloud-Native Application?"
       -
-        id: "coming-soon"
-        title: "How Do I Become Cloud-Native?"
+        id: "becoming-cloud-native"
+        title: "How to Be(come) Cloud-Native"
       -
         id: "session1"
         title: "Developing Applications"
