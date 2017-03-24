@@ -87,16 +87,13 @@ workshop:
         title: "Deploying with CloudForge"
       -
         id: "applications"
-        title: "Cloud Native Applications"
-      -
-        id: "twelve-factor-apps-and-beyond"
-        title: "Cloud Native Architecture"
+        title: "Cloud-Native Applications"
       -
         id: "70-microservices"
-        title: "Microservices"
+        title: "Cloud-Native Architecture"
       -
         id: "design-for-failure"
-        title: "Failures in the Cloud"
+        title: "Designing Cloud-Native Application"
       -
         id: "session1"
         title: "Developing Applications"
