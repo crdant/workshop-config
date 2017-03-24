@@ -93,7 +93,7 @@ workshop:
         title: "Cloud-Native Architecture"
       -
         id: "design-for-failure"
-        title: "Designing Cloud-Native Application"
+        title: "Designing Cloud-Native Applications"
       -
         id: "session1"
         title: "Developing Applications"
