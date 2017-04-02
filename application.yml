@@ -94,14 +94,19 @@ workshop:
         id: "60-security-and-sso"
       -
         id: "scs"
-        title: "Spring Cloud Services"
+        title: "Spring Cloud Dataflow"
       -
-        id: "scs-labs-setup"
+        id: "data-microservices-pcf"
+        title: "Data Microservices"
       -
-        id: "config"
+        id: "02-architecture"
+        title: "Architecture"
       -
-        id: "service-discovery"
+        id: "04-introduction-streams"
+        title: "Streams"
       -
-        id: "circuit-breakers"
+        id: "05-advanced-streams"
+        title: "Advanced Streams"
       -
-        id: "springcloud-dataflow"
+        id: "09-spring-cloud-tasks"
+        title: "Tasks"
