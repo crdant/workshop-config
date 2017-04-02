@@ -11,7 +11,7 @@ workshop:
   title: "Pivotal Cloud Foundry Workshop"
   date: "December 14, 2016"
   description: "This workshop will cover the ..."
-  customerLogo: "https://www.libertymutual.com/insurance-content/logos/liberty-mutual-insurance-facebook.gif"
+  customerLogo: "https://s3.amazonaws.com/filecache.drivetheweb.com/mr5mr_bostonscientific/171609/BostonScientificBlue.jpg"
   instructors:
     -
       name: "Chuck D'Antonio"
@@ -38,6 +38,9 @@ workshop:
       title: "Spring Initializr"
       url: "http://start.spring.io/"
     -
+      title: "Spring Cloud Stream Initializr"
+      url: "http://start-scs.cfapps.io/"
+    -
       title: "Pivotal Web Services"
       url: "https://run.pivotal.io/"
   requirements:
@@ -59,7 +62,7 @@ workshop:
     -
       id: "day1"
       name: "Workshop Sessions"
-      description: "Content for December 14, 2016"
+      description: "Content for April 7, 2017"
       topics:
       -
         id: "session3"
@@ -68,44 +71,27 @@ workshop:
         id: "a-new-way-of-working"
         title: "A New Way of Working"
       -
-        id: "design-for-failure"
-        title: "Design for Failure"
+        id: "what-is-cloud-native"
+        title: "What is a Cloud-Native Application?"
       -
-        id: "api-first"
-        title: "API First"
+        id: "becoming-cloud-native"
+        title: "How to Be(come) Cloud-Native"
       -
-        id: "twelve-factor-apps-and-beyond"
-        title: "12 Factor Applications (and Beyond)"
+        id: "Pivotal Cloud Foundry"
       -
-        id: "70-microservices"
-        title: "Microservices"
-      -
-        id: "data-microservices"
-        title: "Data Microservices"
-      -
-        id: "session1"
-        title: "Application Development"
+        id: '02-intro-to-pcf'
       -
         id: "08-deploy-simple-app"
       -
-        id: "10-application-manifest"
+        id: '26-elastic-runtime'
       -
-        id: "12-domains-and-routes"
+        id: "62-buildpacks"
       -
         id: "14-services"
       -
-        id: "springboot"
-        title: "Spring Boot"
+        id: "58-service-broker"
       -
-        id: "spring-boot-labs-setup"
-      -
-        id: "80-cs-spring-boot-basics"
-      -
-        id: "82-cs-spring-boot-adv"
-      -
-        id: "actuator"
-      -
-        id: "spring-data-rest"
+        id: "60-security-and-sso"
       -
         id: "scs"
         title: "Spring Cloud Services"
