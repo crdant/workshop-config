@@ -70,9 +70,9 @@ workshop:
       id: "agenda"
       name: "Agenda"
       description: |
-         <p>This workshop is targeted at developers and their managers who want to understand how a cloud-native approach
+         This workshop is targeted at developers and their managers who want to understand how a cloud-native approach
          changes the rules for enterprise integration. New development approaches and architecture shift the focus of an intergration
-         team and enable new services models.</p>
+         team and enable new services models.
       topics:
       -
         id: "cloud-native-applications"
