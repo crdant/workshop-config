@@ -65,7 +65,7 @@ workshop:
       description: "Content for April 7, 2017"
       topics:
       -
-        id: "session3"
+        id: "cloud-native-applications"
         title: "Cloud Native Applications"
       -
         id: "a-new-way-of-working"
@@ -77,7 +77,8 @@ workshop:
         id: "becoming-cloud-native"
         title: "How to Be(come) Cloud-Native"
       -
-        id: "Pivotal Cloud Foundry"
+        id: "pivotal-cloud-foundry-section"
+        title: "Pivotal Cloud Foundry"
       -
         id: '02-intro-to-pcf'
       -
@@ -91,9 +92,11 @@ workshop:
       -
         id: "58-service-broker"
       -
-        id: "60-security-and-sso"
+        id: "monitoring-logging"
       -
-        id: "scs"
+        id: "security-topics"
+      -
+        id: "scdf"
         title: "Spring Cloud Dataflow"
       -
         id: "data-microservices-pcf"
