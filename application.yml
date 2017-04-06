@@ -1,10 +1,5 @@
 config:
-  name: liberty-mutual-ci
-foo: bar
-fortune:
-  messages:
-    - "You learn from your mistakes... You will learn a lot today."
-hello: world
+  name: boston-scientific
 
 workshop:
   contentURL: "https://workshop-content-crdant.cfapps.io"
