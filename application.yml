@@ -99,7 +99,7 @@ workshop:
       -
         id: "security-topics"
       -
-        id: "cicd"
+        id: "continuous-delivery-section"
         title: "Continous Delivery"
       -
         id: "66-continuous-delivery"
