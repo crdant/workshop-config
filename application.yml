@@ -77,7 +77,7 @@ workshop:
         id: "a-new-way-of-working"
         title: "A New Way of Working"
       -
-        id: "cloud-native-demo"
+        id: "emptysession"
         title: "Cloud Native Application Demo"
       -
         id: "cloudforge-overview"
