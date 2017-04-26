@@ -105,6 +105,8 @@ workshop:
         id: "session1"
         title: "Developing Applications"
       -
+        id: "gs-labs-video"
+      -
         id: "spring-boot-labs-setup"
         title: "Lab Setup"
       -
