@@ -91,7 +91,7 @@ workshop:
         id: "deploying-to-cloudforge"
         title: "Deploying with CloudForge"
       -
-        id: "emptysession"
+        id: "cloud-native-applications"
         title: "Cloud-Native Applications"
       -
         id: "what-is-cloud-native"
