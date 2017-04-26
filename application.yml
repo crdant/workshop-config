@@ -83,7 +83,7 @@ workshop:
         id: "cloudforge-overview"
         title: "The CloudForge Experience"
       -
-        id: "ets-labs-video"
+        id: "cio-faster-video"
       -
         id: "sample-application"
         title: "A Sample Cloud-Native Application"
@@ -91,7 +91,7 @@ workshop:
         id: "deploying-to-cloudforge"
         title: "Deploying with CloudForge"
       -
-        id: "coming-soon"
+        id: "emptysession"
         title: "Cloud-Native Applications"
       -
         id: "what-is-cloud-native"
