@@ -62,12 +62,13 @@ workshop:
         content: "content 4 link"
   sessions:
     -
-      id: "sessions"
-      name: "Workshop"
+      id: "briefing"
+      name: "Briefing"
       description: |
          This workshop is targeted at developers and their managers who want to understand how a cloud-native approach
-         changes the rules for enterprise integration. New development approaches and architecture shift the focus of an intergration
-         team and enable new services models.
+         changes the rules for enterprise technology. We'll discuss the nature of cloud-native applications and how becoming
+         cloud-native affects not only your applications but they way you build them and even how you structure your
+         organization.
       topics:
       -
         id: "cloud-native-applications"
@@ -82,6 +83,17 @@ workshop:
         id: "becoming-cloud-native"
         title: "How to Be(come) Cloud-Native"
       -
+        id: "enabling-cloud-native"
+        title: "Enabling A Cloud-Native Organization"
+    -
+      id: "workshop"
+      name: "Workshop"
+      description: |
+         This workshop is targeted at developers and operators who will be working with Cloud Foundry as part of developing and
+         operating applications. We will be working hands-on with Cloud Foundry and various Spring components that help you
+         develop cloud-native applications in Java.
+      topics:
+      -
         id: "pivotal-cloud-foundry-section"
         title: "Pivotal Cloud Foundry"
       -
@@ -92,8 +104,6 @@ workshop:
         id: "10-application-manifest"
       -
         id: "14-services"
-      -
-        id: "58-service-broker"
       -
         id: "monitoring-logging"
       -
