@@ -129,17 +129,11 @@ workshop:
         id: "scdf"
         title: "Spring Cloud Dataflow"
       -
-        id: "data-microservices-pcf"
-        title: "Data Microservices"
-      -
         id: "02-architecture"
         title: "Architecture"
       -
         id: "04-introduction-streams"
         title: "Streams"
-      -
-        id: "05-advanced-streams"
-        title: "Advanced Streams"
       -
         id: "09-spring-cloud-tasks"
         title: "Tasks"
