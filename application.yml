@@ -99,6 +99,8 @@ workshop:
       -
         id: "pcf-developer-push"
       -
+        id: "pcf-developer-logging-scale-ha"
+      -
         id: "pcf-developer-services"
       -
         id: "pcf-developer-buildpacks"
