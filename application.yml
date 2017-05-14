@@ -125,6 +125,9 @@ workshop:
         id: "advanced"
         title: "Advanced Topics"
       -
+        id: "monitoring-logging"
+        title: "Monitoring and Logging for Your Application"
+      -
         id: "cloudforge-bluegreen"
         title: "Blue-Green Deployment with CloudForge"
     -
