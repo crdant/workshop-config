@@ -112,7 +112,7 @@ workshop:
       -
         id: "pcf-developer-cd"
       -
-        id: "coming-soon"
+        id: "blue-green-deployments"
         title: "Blue Green Deployment"
       -
         id: "boot"
