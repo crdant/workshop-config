@@ -171,3 +171,28 @@ workshop:
       -
         id: "14-services"
         title: "Services"
+    -
+      id: "videos"
+      name: "Videos"
+      description: "Liberty and Pivotal Video series"
+      topics:
+        -
+          id: 'ci-dojo-video'
+        -
+          id: 'cio-diversification-video'
+        -
+          id: 'cio-faster-video'
+        -
+          id: 'cio-innovation-video'
+        -
+          id: 'cio-partnerships-video'
+        -
+          id: 'cio-trust-video'
+        -
+          id: 'cio-urgency-video'
+        -
+          id: 'ets-labs-video'
+        -
+          id: 'gs-labs-video'
+        -
+          id: 'labs-pairing-video'
