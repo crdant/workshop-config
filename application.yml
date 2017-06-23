@@ -74,8 +74,8 @@ workshop:
         id: "platform"
         title: "Cloud Native Platform"
       -
-        id: "a-new-way-of-working"
-        title: "A New Way of Working"
+        id: "the-platform-for-a-new-way-of-working"
+        title: "The Platform for A New Way of Working"
       -
         id: "emptysession"
         title: "Cloud Native Application Demo"
