@@ -122,9 +122,6 @@ workshop:
         id: "actuator"
         title: "Spring Boot Actuator"
       -
-        id: "spring-data-rest"
-        title: "Spring Data REST"
-      -
         id: "advanced"
         title: "Advanced Topics"
       -
