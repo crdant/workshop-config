@@ -91,7 +91,7 @@ workshop:
         id: "deploying-to-cloudforge"
         title: "Deploying with CloudForge"
       -
-        id: "logging-scale-ha"
+        id: "pcf-developer-logging-scale-ha"
         title: "A Look Inside Cloud Foundry"
       -
         id: "cloud-native-applications"
