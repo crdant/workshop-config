@@ -90,7 +90,7 @@ workshop:
         id: "sample-application"
         title: "A Sample Cloud-Native Application"
       -
-        id: "logging-scale-ha"
+        id: "pcf-developer-logging-scale-ha"
         title: "A Look Inside Cloud Foundry"
       -
         id: "the-cloud-forge-platform"
