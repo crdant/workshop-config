@@ -90,9 +90,6 @@ workshop:
         id: "sample-application"
         title: "A Sample Cloud-Native Application"
       -
-        id: "deploying-to-cloudforge"
-        title: "Deploying with CloudForge"
-      -
         id: "logging-scale-ha"
         title: "A Look Inside Cloud Foundry"
       -
@@ -116,6 +113,9 @@ workshop:
         title: "Developing Applications"
       -
         id: "gs-labs-video"
+      -
+        id: "deploying-to-cloudforge"
+        title: "Deploying with CloudForge"
       -
         id: "coming-soon"
         title: "Cloud Forge Services"
