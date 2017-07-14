@@ -19,6 +19,8 @@ workshop:
       email: cdantonio@pivotal.io
       phone: "(617) 388-1120"
   resources:
+    - title: "Cloud-Native Enterprise"
+      url: https://cf-presentations.sandbox.paas.lmig.com/cloud-native-enterprise/#/
     -
       title: "CloudForge Home"
       url: "https://forge.lmig.com/"
@@ -94,6 +96,11 @@ workshop:
         id: "logging-scale-ha"
         title: "A Look Inside Cloud Foundry"
       -
+        id: "the-cloud-forge-platform"
+      -
+        id: "cloudforge-overview"
+        title: "The CloudForge Experience"
+      -
         id: "cloud-native-applications"
         title: "Cloud-Native Applications"
       -
@@ -110,17 +117,11 @@ workshop:
       -
         id: "gs-labs-video"
       -
-        id: "spring-boot-labs-setup"
-        title: "Lab Setup"
+        id: "coming-soon"
+        title: "Cloud Forge Services"
       -
-        id: "80-cs-spring-boot-basics"
-        title: "Spring Boot"
-      -
-        id: "82-cs-spring-boot-adv"
-        title: "More Spring Boot Features"
-      -
-        id: "actuator"
-        title: "Spring Boot Actuator"
+        id: "coming-soon"
+        title: "Security on CloudForge"
       -
         id: "advanced"
         title: "Advanced Topics"
