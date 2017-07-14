@@ -86,22 +86,16 @@ workshop:
         id: "emptysession"
         title: "Cloud Native Application Demo"
       -
-        id: "cloudforge-overview"
-        title: "The CloudForge Experience"
-      -
         id: "cio-faster-video"
-      -
-        id: "sample-application"
-        title: "A Sample Cloud-Native Application"
-      -
-        id: "pcf-developer-logging-scale-ha"
-        title: "A Look Inside Cloud Foundry"
       -
         id: "the-cloud-forge-platform"
         title: "CloudForge"
       -
         id: "cloudforge-overview"
         title: "The CloudForge Experience"
+      -
+        id: "sample-application"
+        title: "A Sample Cloud-Native Application"
       -
         id: "cloud-native-applications"
         title: "Cloud-Native Applications"
@@ -133,6 +127,9 @@ workshop:
       -
         id: "advanced"
         title: "Advanced Topics"
+      -
+        id: "pcf-developer-logging-scale-ha"
+        title: "A Look Inside Cloud Foundry"
       -
         id: "monitoring-logging"
         title: "Monitoring and Logging for Your Application"
