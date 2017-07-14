@@ -111,6 +111,9 @@ workshop:
         id: "becoming-cloud-native"
         title: "How to Be(come) Cloud-Native"
       -
+        id: "emptyprogramming"
+        title: "A Pair Programming Experience"
+      -
         id: "session1"
         title: "Developing Applications"
       -
