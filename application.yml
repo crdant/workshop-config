@@ -111,7 +111,7 @@ workshop:
         id: "becoming-cloud-native"
         title: "How to Be(come) Cloud-Native"
       -
-        id: "emptyprogramming"
+        id: "emptysession"
         title: "A Pair Programming Experience"
       -
         id: "session1"
@@ -122,10 +122,13 @@ workshop:
         id: "deploying-to-cloudforge"
         title: "Deploying with CloudForge"
       -
-        id: "coming-soon"
+        id: "coming-soon-with-lab"
         title: "Cloud Forge Services"
       -
-        id: "coming-soon"
+        id: "cloudforge-bluegreen"
+        title: "Blue-Green Deployment with CloudForge"
+      -
+        id: "coming-soon-with-lab"
         title: "Security on CloudForge"
       -
         id: "advanced"
@@ -136,9 +139,6 @@ workshop:
       -
         id: "monitoring-logging"
         title: "Monitoring and Logging for Your Application"
-      -
-        id: "cloudforge-bluegreen"
-        title: "Blue-Green Deployment with CloudForge"
     -
       id: "appendix"
       name: "Additional Material"
