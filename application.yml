@@ -19,7 +19,11 @@ workshop:
       email: cdantonio@pivotal.io
       phone: "(617) 388-1120"
   resources:
-    - title: "Cloud-Native Enterprise"
+    -
+      title: "Liberty Cloud Principles"
+      url: "https://git.forge.lmig.com/projects/CLOUDFORGE/repos/cloud-principles/browse"
+    -
+      title: "Cloud-Native Enterprise"
       url: https://cf-presentations.sandbox.paas.lmig.com/cloud-native-enterprise/#/
     -
       title: "CloudForge Home"
@@ -94,6 +98,7 @@ workshop:
         title: "A Look Inside Cloud Foundry"
       -
         id: "the-cloud-forge-platform"
+        title: "CloudForge"
       -
         id: "cloudforge-overview"
         title: "The CloudForge Experience"
