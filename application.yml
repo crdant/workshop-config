@@ -104,6 +104,9 @@ workshop:
         id: "what-is-cloud-native"
         title: "What is a Cloud-Native Application?"
       -
+        id: "coming-soon"
+        title: "A Quiz in Twelve Factors"
+      -
         id: "ci-dojo-video"
       -
         id: "becoming-cloud-native"
