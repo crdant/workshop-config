@@ -122,13 +122,13 @@ workshop:
         id: "deploying-to-cloudforge"
         title: "Deploying with CloudForge"
       -
-        id: "coming-soon-with-lab"
+        id: "cloudforge-services"
         title: "Cloud Forge Services"
       -
         id: "cloudforge-bluegreen"
         title: "Blue-Green Deployment with CloudForge"
       -
-        id: "coming-soon-with-lab"
+        id: "cloudforge-network-access"
         title: "Security on CloudForge"
       -
         id: "advanced"
