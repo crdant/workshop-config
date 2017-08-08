@@ -136,9 +136,6 @@ workshop:
       -
         id: "pcf-developer-logging-scale-ha"
         title: "A Look Inside Cloud Foundry"
-      -
-        id: "monitoring-logging"
-        title: "Monitoring and Logging for Your Application"
     -
       id: "appendix"
       name: "Additional Material"
