@@ -32,6 +32,9 @@ workshop:
       title: "CloudForge Portal"
       url: "https://cloudforge-portal.pdc.paas.lmig.com/#/pipeline"
     -
+      title: "Installing the Cloud Foundry Command Line at Liberty"
+      url: "https://forge.lmig.com/wiki/x/qQmjB"
+    -
       title: "Liberty Commerical Insurance Cookbook"
       url: "https://pcf-cookbook.sandbox.paas.lmig.com/"
     -
