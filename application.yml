@@ -100,7 +100,7 @@ workshop:
         id: "cloud-native-applications"
         title: "Cloud-Native Applications"
       -
-        id: "what-is-cloud-native"
+        id: "cloud-native-application"
         title: "What is a Cloud-Native Application?"
       -
         id: "liberty-twelve-factor-quiz"
