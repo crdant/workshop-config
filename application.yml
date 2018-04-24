@@ -5,20 +5,24 @@ workshop:
   contentURL: "https://workshop-content-crdant.cfapps.io"
   title: "Pivotal Cloud Foundry Workshop"
   date: "Recurring Monthly"
-  description: "<p>This workshop is targeted primarily at application developers and their managers who feel that
-     something just isn’t working with the way they are working. Developing Cloud-Native applications and Deploying
+  description: "<p>This workshop is targeted primarily at application developers who feel that
+     something just isn’t working with the way they are working. Developing Cloud-Native applications and deploying
      them to CloudForge will help you and your team to deliver better software, faster, and with less hassle.</p>
-     <p>We’ll steadily build the level of detail that we cover, providing opportunities for managers to learn about the
-     broader themes while leaving the code-level topics for their teams. When we get into the details, we’ll be focusing on
-     Java but touching on .NET and other languages as well.</p>"
   customerLogo: "https://www.libertymutual.com/insurance-content/logos/liberty-mutual-insurance-facebook.gif"
   instructors:
     -
-      name: "Chuck D'Antonio"
+      name: "Chuck D"Antonio"
       title: "Advisory Platform Architect"
       email: cdantonio@pivotal.io
       phone: "(617) 388-1120"
+    -
+      name: "Scott Curry"
+      title: "Developer Advocate"
+      email: scott.curry@libertymutual.com
   resources:
+    -
+      title: "Preparing for the Workshop"
+      url: "https://forge.lmig.com/wiki/display/STAC/CloudForge+Workshop+Prerequisites"
     -
       title: "Liberty Cloud Principles"
       url: "https://git.forge.lmig.com/projects/CLOUDFORGE/repos/cloud-principles/browse"
@@ -75,133 +79,68 @@ workshop:
         content: "content 4 link"
   sessions:
     -
-      id: "day1"
+      id: "sessions"
       name: "Workshop Sessions"
       description: "Learning about Cloud Foundry, CloudForge, and Spring Boot"
       topics:
       -
-        id: "platform"
-        title: "Cloud Native Platform"
+        id: "cloud-native-applications"
       -
-        id: "the-platform-for-a-new-way-of-working"
-        title: "The Platform for A New Way of Working"
+        id: "microservices-short"
+      -
+        id: "what-is-cloudforge"
       -
         id: "emptysession"
-        title: "Cloud Native Application Demo"
+        title: "The Platform for a New Way of Working"
       -
-        id: "cio-faster-video"
+        id: "health-lab"
       -
-        id: "the-cloud-forge-platform"
-        title: "CloudForge"
+        id: "conventions"
       -
-        id: "cloudforge-overview"
-        title: "The CloudForge Experience"
+        id: "more-reasons-cloudforge"
       -
-        id: "sample-application"
-        title: "A Sample Cloud-Native Application"
-      -
-        id: "cloud-native-applications"
-        title: "Cloud-Native Applications"
-      -
-        id: "cloud-native-application"
-        title: "What is a Cloud-Native Application?"
+        id: "12-factor-detailed"
       -
         id: "liberty-twelve-factor-quiz"
-        title: "A Quiz in Twelve Factors"
-      -
-        id: "ci-dojo-video"
-      -
-        id: "becoming-cloud-native"
-        title: "How to Be(come) Cloud-Native"
-      -
-        id: "emptysession"
-        title: "A Pair Programming Experience"
-      -
-        id: "session1"
-        title: "Developing Applications"
-      -
-        id: "gs-labs-video"
-      -
-        id: "deploying-to-cloudforge"
-        title: "Deploying with CloudForge"
       -
         id: "cloudforge-services"
-        title: "Cloud Forge Services"
       -
-        id: "cloudforge-bluegreen"
-        title: "Blue-Green Deployment with CloudForge"
+        id: "cloudforge-security"
       -
-        id: "cloudforge-network-access"
-        title: "Security on CloudForge"
+        id: "curfew"
       -
-        id: "advanced"
-        title: "Advanced Topics"
+        id: "becoming"
       -
-        id: "pcf-developer-logging-scale-ha"
+        id: "liberty-cloud-adoption"
+      -
+        id: "appcontinuum"
+      -
+        id: "emptysession"
         title: "A Look Inside Cloud Foundry"
-    -
-      id: "appendix"
-      name: "Additional Material"
-      description: "Additional supporting material for the workshop"
-      topics:
       -
-        id: "architecture-and-design"
-        title: "Cloud-Native Techniques"
-      -
-        id: "twelve-factor-apps-and-beyond"
-        title: "12 Factor Applications (and Beyond)"
-      -
-        id: "api-first"
-        title: "API First"
-      -
-        id: "design-for-failure"
-        title: "Design for Failure"
-      -
-        id: "70-microservices"
-        title: "Microservices"
-      -
-        id: "pivotal-cloud-foundry-intro"
-        title: "Pivotal Cloud Foundry"
-      -
-        id: "02-intro-to-pcf"
-        title: "Overview"
-      -
-        id: "04-cli"
-        title: "The cf Command Line"
-      -
-        id: "06-org-space-user-role"
-        title: "Orgs, Spaces, Users, and Roles"
-      -
-        id: "10-application-manifest"
-        title: "Application Manifests"
-      -
-        id: "12-domains-and-routes"
-        title: "Domains and Routes"
-      -
-        id: "14-services"
-        title: "Services"
+        id: "exploring-12-factors"
     -
       id: "videos"
       name: "Videos"
       description: "Liberty and Pivotal Video series"
       topics:
         -
-          id: 'ci-dojo-video'
+          id: "ci-dojo-video"
         -
-          id: 'cio-diversification-video'
+          id: "cio-diversification-video"
         -
-          id: 'cio-faster-video'
+          id: "cio-faster-video"
         -
-          id: 'cio-innovation-video'
+          id: "cio-innovation-video"
         -
-          id: 'cio-partnerships-video'
+          id: "cio-partnerships-video"
         -
-          id: 'cio-trust-video'
+          id: "cio-trust-video"
         -
-          id: 'cio-urgency-video'
+          id: "cio-urgency-video"
         -
-          id: 'ets-labs-video'
+          id: "ets-labs-video"
         -
-          id: 'gs-labs-video'
+          id: "gs-labs-video"
         -
-          id: 'labs-pairing-video'
+          id: "labs-pairing-video"
