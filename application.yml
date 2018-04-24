@@ -112,6 +112,9 @@ workshop:
       -
         id: "liberty-twelve-factor-quiz"
       -
+        id: "cloudforge-features"
+        title: CloudForge Features
+      -
         id: "cloudforge-services"
       -
         id: "cloudforge-security"
