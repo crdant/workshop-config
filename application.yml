@@ -11,14 +11,14 @@ workshop:
   customerLogo: "https://www.libertymutual.com/insurance-content/logos/liberty-mutual-insurance-facebook.gif"
   instructors:
     -
-      name: "Chuck D"Antonio"
+      name: "Chuck D'Antonio"
       title: "Advisory Platform Architect"
-      email: cdantonio@pivotal.io
+      email: "cdantonio@pivotal.io"
       phone: "(617) 388-1120"
     -
       name: "Scott Curry"
       title: "Developer Advocate"
-      email: scott.curry@libertymutual.com
+      email: "scott.curry@libertymutual.com"
   resources:
     -
       title: "Preparing for the Workshop"
