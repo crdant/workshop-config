@@ -105,7 +105,7 @@ workshop:
       -
         id: "more-reasons-cloudforge"
       -
-        id: "cloud-native-architeture"
+        id: "cloud-native-application-architecures"
         title: Cloud Native Architecture
       -
         id: "12-factor-detailed"
@@ -117,6 +117,9 @@ workshop:
         id: "cloudforge-security"
       -
         id: "curfew"
+      -
+        id: "adopting-a-cloud-native-approach"
+        title: Adopting A Cloud-Native Approach
       -
         id: "becoming"
       -
