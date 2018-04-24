@@ -7,7 +7,7 @@ workshop:
   date: "Recurring Monthly"
   description: "<p>This workshop is targeted primarily at application developers who feel that
      something just isn’t working with the way they are working. Developing Cloud-Native applications and deploying
-     them to CloudForge will help you and your team to deliver better software, faster, and with less hassle.</p>
+     them to CloudForge will help you and your team to deliver better software, faster, and with less hassle.</p>"
   customerLogo: "https://www.libertymutual.com/insurance-content/logos/liberty-mutual-insurance-facebook.gif"
   instructors:
     -
