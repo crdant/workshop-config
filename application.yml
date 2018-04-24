@@ -81,12 +81,18 @@ workshop:
     -
       id: "sessions"
       name: "Workshop Sessions"
-      description: "Learning about Cloud Foundry, CloudForge, and Spring Boot"
+      description: "Learning about Cloud Foundry, CloudForge, and Cloud Native Applications"
       topics:
+      -
+        id: "what-is-this-cloud-native-stuff"
+        title: What is Cloud Native?
       -
         id: "cloud-native-applications"
       -
         id: "microservices-short"
+      -
+        id: "libertys-cloud-platform"
+        title: Liberty's Cloud Native Platform
       -
         id: "what-is-cloudforge"
       -
@@ -98,6 +104,9 @@ workshop:
         id: "conventions"
       -
         id: "more-reasons-cloudforge"
+      -
+        id: "cloud-native-architeture"
+        title: Cloud Native Architecture
       -
         id: "12-factor-detailed"
       -
@@ -114,6 +123,9 @@ workshop:
         id: "liberty-cloud-adoption"
       -
         id: "appcontinuum"
+      -
+        id: "a-little-deeper"
+        title: A Little Deeper
       -
         id: "emptysession"
         title: "A Look Inside Cloud Foundry"
